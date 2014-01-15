@@ -21,6 +21,21 @@
 		76E1E2F11857689600F8382F /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 76E1E2D31857689600F8382F /* UIKit.framework */; };
 		76E1E2F91857689600F8382F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 76E1E2F71857689600F8382F /* InfoPlist.strings */; };
 		76E1E2FB1857689600F8382F /* UIViewTransformsCheckpointTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 76E1E2FA1857689600F8382F /* UIViewTransformsCheckpointTests.m */; };
+		76E1E30B1857A86900F8382F /* YellowArrow.png in Resources */ = {isa = PBXBuildFile; fileRef = 76E1E3041857A86900F8382F /* YellowArrow.png */; };
+		76E1E30C1857A86900F8382F /* dukeNukemHead.png in Resources */ = {isa = PBXBuildFile; fileRef = 76E1E3051857A86900F8382F /* dukeNukemHead.png */; };
+		76E1E30D1857A86900F8382F /* Duke-NukemGum.png in Resources */ = {isa = PBXBuildFile; fileRef = 76E1E3061857A86900F8382F /* Duke-NukemGum.png */; };
+		76E1E30E1857A86900F8382F /* DukeNukem.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 76E1E3071857A86900F8382F /* DukeNukem.jpg */; };
+		76E1E30F1857A86900F8382F /* duke_nukem__.png in Resources */ = {isa = PBXBuildFile; fileRef = 76E1E3081857A86900F8382F /* duke_nukem__.png */; };
+		76E1E3101857A86900F8382F /* Duke_NukemStanding.png in Resources */ = {isa = PBXBuildFile; fileRef = 76E1E3091857A86900F8382F /* Duke_NukemStanding.png */; };
+		76E1E3111857A86900F8382F /* dukehead.png in Resources */ = {isa = PBXBuildFile; fileRef = 76E1E30A1857A86900F8382F /* dukehead.png */; };
+		76E1E3131857AAF000F8382F /* dukenukem.png in Resources */ = {isa = PBXBuildFile; fileRef = 76E1E3121857AAF000F8382F /* dukenukem.png */; };
+		76E1E31A1858BB5900F8382F /* Quit wasting my time.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 76E1E3141858BB5900F8382F /* Quit wasting my time.mp3 */; };
+		76E1E31B1858BB5900F8382F /* Youre an inspiration for birth control.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 76E1E3151858BB5900F8382F /* Youre an inspiration for birth control.mp3 */; };
+		76E1E31C1858BB5900F8382F /* Dont get your panties all in a bunch.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 76E1E3161858BB5900F8382F /* Dont get your panties all in a bunch.mp3 */; };
+		76E1E31E1858BB5900F8382F /* Ive got balls of steel.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 76E1E3181858BB5900F8382F /* Ive got balls of steel.mp3 */; };
+		76E1E31F1858BB5900F8382F /* My names Duke Nukem.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 76E1E3191858BB5900F8382F /* My names Duke Nukem.mp3 */; };
+		76E1E3211858BCC100F8382F /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 76E1E3201858BCC100F8382F /* AVFoundation.framework */; };
+		76E1E3231858D13E00F8382F /* chewBubblegum.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 76E1E3221858D13E00F8382F /* chewBubblegum.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +68,21 @@
 		76E1E2F61857689600F8382F /* UIViewTransformsCheckpointTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "UIViewTransformsCheckpointTests-Info.plist"; sourceTree = "<group>"; };
 		76E1E2F81857689600F8382F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		76E1E2FA1857689600F8382F /* UIViewTransformsCheckpointTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UIViewTransformsCheckpointTests.m; sourceTree = "<group>"; };
+		76E1E3041857A86900F8382F /* YellowArrow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = YellowArrow.png; sourceTree = "<group>"; };
+		76E1E3051857A86900F8382F /* dukeNukemHead.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dukeNukemHead.png; sourceTree = "<group>"; };
+		76E1E3061857A86900F8382F /* Duke-NukemGum.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Duke-NukemGum.png"; sourceTree = "<group>"; };
+		76E1E3071857A86900F8382F /* DukeNukem.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = DukeNukem.jpg; sourceTree = "<group>"; };
+		76E1E3081857A86900F8382F /* duke_nukem__.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = duke_nukem__.png; sourceTree = "<group>"; };
+		76E1E3091857A86900F8382F /* Duke_NukemStanding.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Duke_NukemStanding.png; sourceTree = "<group>"; };
+		76E1E30A1857A86900F8382F /* dukehead.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dukehead.png; sourceTree = "<group>"; };
+		76E1E3121857AAF000F8382F /* dukenukem.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dukenukem.png; sourceTree = "<group>"; };
+		76E1E3141858BB5900F8382F /* Quit wasting my time.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Quit wasting my time.mp3"; sourceTree = "<group>"; };
+		76E1E3151858BB5900F8382F /* Youre an inspiration for birth control.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Youre an inspiration for birth control.mp3"; sourceTree = "<group>"; };
+		76E1E3161858BB5900F8382F /* Dont get your panties all in a bunch.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Dont get your panties all in a bunch.mp3"; sourceTree = "<group>"; };
+		76E1E3181858BB5900F8382F /* Ive got balls of steel.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Ive got balls of steel.mp3"; sourceTree = "<group>"; };
+		76E1E3191858BB5900F8382F /* My names Duke Nukem.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "My names Duke Nukem.mp3"; sourceTree = "<group>"; };
+		76E1E3201858BCC100F8382F /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		76E1E3221858D13E00F8382F /* chewBubblegum.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = chewBubblegum.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +90,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				76E1E3211858BCC100F8382F /* AVFoundation.framework in Frameworks */,
 				76E1E2D21857689600F8382F /* CoreGraphics.framework in Frameworks */,
 				76E1E2D41857689600F8382F /* UIKit.framework in Frameworks */,
 				76E1E2D01857689600F8382F /* Foundation.framework in Frameworks */,
@@ -101,6 +132,7 @@
 		76E1E2CE1857689600F8382F /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				76E1E3201858BCC100F8382F /* AVFoundation.framework */,
 				76E1E2CF1857689600F8382F /* Foundation.framework */,
 				76E1E2D11857689600F8382F /* CoreGraphics.framework */,
 				76E1E2D31857689600F8382F /* UIKit.framework */,
@@ -118,6 +150,20 @@
 				76E1E2E41857689600F8382F /* ViewController.h */,
 				76E1E2E51857689600F8382F /* ViewController.m */,
 				76E1E2E71857689600F8382F /* Images.xcassets */,
+				76E1E3121857AAF000F8382F /* dukenukem.png */,
+				76E1E3041857A86900F8382F /* YellowArrow.png */,
+				76E1E3051857A86900F8382F /* dukeNukemHead.png */,
+				76E1E3061857A86900F8382F /* Duke-NukemGum.png */,
+				76E1E3071857A86900F8382F /* DukeNukem.jpg */,
+				76E1E3081857A86900F8382F /* duke_nukem__.png */,
+				76E1E3091857A86900F8382F /* Duke_NukemStanding.png */,
+				76E1E30A1857A86900F8382F /* dukehead.png */,
+				76E1E3141858BB5900F8382F /* Quit wasting my time.mp3 */,
+				76E1E3151858BB5900F8382F /* Youre an inspiration for birth control.mp3 */,
+				76E1E3161858BB5900F8382F /* Dont get your panties all in a bunch.mp3 */,
+				76E1E3181858BB5900F8382F /* Ive got balls of steel.mp3 */,
+				76E1E3191858BB5900F8382F /* My names Duke Nukem.mp3 */,
+				76E1E3221858D13E00F8382F /* chewBubblegum.mp3 */,
 				76E1E2D61857689600F8382F /* Supporting Files */,
 			);
 			path = UIViewTransformsCheckpoint;
@@ -228,9 +274,23 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				76E1E3111857A86900F8382F /* dukehead.png in Resources */,
+				76E1E3231858D13E00F8382F /* chewBubblegum.mp3 in Resources */,
+				76E1E30C1857A86900F8382F /* dukeNukemHead.png in Resources */,
+				76E1E30F1857A86900F8382F /* duke_nukem__.png in Resources */,
+				76E1E31C1858BB5900F8382F /* Dont get your panties all in a bunch.mp3 in Resources */,
+				76E1E31B1858BB5900F8382F /* Youre an inspiration for birth control.mp3 in Resources */,
+				76E1E31A1858BB5900F8382F /* Quit wasting my time.mp3 in Resources */,
+				76E1E31E1858BB5900F8382F /* Ive got balls of steel.mp3 in Resources */,
+				76E1E30D1857A86900F8382F /* Duke-NukemGum.png in Resources */,
 				76E1E2E81857689600F8382F /* Images.xcassets in Resources */,
+				76E1E30B1857A86900F8382F /* YellowArrow.png in Resources */,
+				76E1E3101857A86900F8382F /* Duke_NukemStanding.png in Resources */,
 				76E1E2DA1857689600F8382F /* InfoPlist.strings in Resources */,
+				76E1E30E1857A86900F8382F /* DukeNukem.jpg in Resources */,
 				76E1E2E31857689600F8382F /* Main.storyboard in Resources */,
+				76E1E31F1858BB5900F8382F /* My names Duke Nukem.mp3 in Resources */,
+				76E1E3131857AAF000F8382F /* dukenukem.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -460,6 +520,7 @@
 				76E1E3001857689600F8382F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		76E1E3011857689600F8382F /* Build configuration list for PBXNativeTarget "UIViewTransformsCheckpointTests" */ = {
 			isa = XCConfigurationList;
@@ -468,6 +529,7 @@
 				76E1E3031857689600F8382F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
